@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋 I'm Jeet Vaghela
 
-<!--
-**jeetvaghela12/jeetvaghela12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Beginner Python developer learning step by step  
+💻 Interested in Software Engineering and Open Source  
+🚀 Building small projects to improve my coding skills  
 
-Here are some ideas to get you started:
+## Skills
+- Python (Beginner)
+- Programming basics
+- GitHub fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Python Calculator
+- Even Odd Number Checker
+
+## Goals
+- Learn open-source contribution
+- Get selected for beginner-friendly internships like Outreachy
+
+📫 Learning consistently and improving every day
+
