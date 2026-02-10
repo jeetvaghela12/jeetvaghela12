@@ -1,35 +1,28 @@
-# Hi 👋, I'm Jeet Vaghela
+# 🔍 Open Source Contribution Analyzer
 
-🎯 Beginner Software Engineer | Python Learner | Open Source Enthusiast
+An automated tool designed for **Open Source Mentors** and **Maintainers** to evaluate contributor activity and engagement metrics using the GitHub API.
 
----
+## 🚀 Overview
+Managing a large open-source project can be overwhelming. This tool simplifies the process by providing data-driven insights into:
+- **Contributor Velocity**: Who is consistently providing PRs?
+- **Engagement Metrics**: Who is actively participating in discussions?
+- **Contribution History**: A detailed log of recent activities.
 
-## 👨‍💻 About Me
-- 🌱 Currently learning **Python & GitHub**
-- 🔧 Building small but real projects to improve my skills
-- 🚀 Goal: Contribute to open-source and grow as a software engineer
-- 🤝 Interested in beginner-friendly internships and programs like Outreachy
+## ✨ Key Features
+- **Real-time Data**: Fetches the latest 50 Pull Requests directly from GitHub.
+- **Visual Analytics**: Interactive bar charts for PR distribution.
+- **Engagement Tracking**: Summarizes comments per user to identify helpful community members.
+- **Data Export**: Option to download the analyzed data as a CSV file for offline reporting.
 
----
+## 🛠️ Tech Stack
+- **Language**: Python 3.12
+- **Framework**: Streamlit (for the UI)
+- **API**: PyGithub (GitHub API v3)
+- **Data Handling**: Pandas
 
-## 🛠️ Skills
-- Python (Basics)
-- Git & GitHub
-- Problem Solving
+## ⚙️ How to Run Locally
 
----
-
-## 📂 Projects
-### 🔹 Python Calculator
-A simple Python calculator with:
-- Basic operations (Add, Subtract, Multiply, Divide)
-- Even/Odd number checker
-
-👉 Repo: https://github.com/jeetvaghela12/python-calculator
-
----
-
-## 📫 Connect With Me
-- GitHub: https://github.com/jeetvaghela12
-
-⭐ Always open to learning and improving
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/jeetvaghela12/opensource-contribution-analyzer.git](https://github.com/jeetvaghela12/opensource-contribution-analyzer.git)
+   cd opensource-contribution-analyzer
