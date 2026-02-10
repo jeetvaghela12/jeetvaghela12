@@ -1,21 +1,35 @@
-# Hi 👋 I'm Jeet Vaghela
+# Hi 👋, I'm Jeet Vaghela
 
-🌱 Beginner Python developer learning step by step  
-💻 Interested in Software Engineering and Open Source  
-🚀 Building small projects to improve my coding skills  
+🎯 Beginner Software Engineer | Python Learner | Open Source Enthusiast
 
-## Skills
-- Python (Beginner)
-- Programming basics
-- GitHub fundamentals
+---
 
-## Projects
-- Python Calculator
-- Even Odd Number Checker
+## 👨‍💻 About Me
+- 🌱 Currently learning **Python & GitHub**
+- 🔧 Building small but real projects to improve my skills
+- 🚀 Goal: Contribute to open-source and grow as a software engineer
+- 🤝 Interested in beginner-friendly internships and programs like Outreachy
 
-## Goals
-- Learn open-source contribution
-- Get selected for beginner-friendly internships like Outreachy
+---
 
-📫 Learning consistently and improving every day
+## 🛠️ Skills
+- Python (Basics)
+- Git & GitHub
+- Problem Solving
 
+---
+
+## 📂 Projects
+### 🔹 Python Calculator
+A simple Python calculator with:
+- Basic operations (Add, Subtract, Multiply, Divide)
+- Even/Odd number checker
+
+👉 Repo: https://github.com/jeetvaghela12/python-calculator
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/jeetvaghela12
+
+⭐ Always open to learning and improving
