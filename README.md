@@ -1,6 +1,6 @@
 # Hi, I'm Jeet Vaghela! 👋
 
-### 🚀 Beginner Software Developer | Python & Open Source Enthusiast
+### 🚀 Software Developer | Python & Open Source Enthusiast
 I am passionate about building tools that solve real-world problems. Currently learning Python and exploring the vast world of Open Source contributions.
 
 - 🛠️ **Current Project**: [Open Source Contribution Analyzer Tool, Simple Beginner friendly Calculator](https://github.com/jeetvaghela12/opensource-contribution-analyzer)
